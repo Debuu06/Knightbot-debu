@@ -1,7 +1,7 @@
 const settings = {
-  packname: 'Knight',
+  packname: 'scrap',
   author: 'Bot',
-  botName: "Knight Bot",
+  botName: "Scrapto.in",
   botOwner: 'Scrapto', // Your name
   ownerNumber: '918949990156', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
